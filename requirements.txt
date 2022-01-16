@@ -1,0 +1,9 @@
+gunicorn
+scikit-learn==0.22.1
+xgboost
+numpy
+pandas
+requests
+flask
+flask_cors
+imblearn
