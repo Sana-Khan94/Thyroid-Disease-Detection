@@ -19,9 +19,9 @@ class dBOperation:
         self.badFilePath = "Training_Raw_files_validated/Bad_Raw"
         self.goodFilePath = "Training_Raw_files_validated/Good_Raw"
         self.logger = App_Logger()
-        self.secure_connect_bundle = 'secure-connect-thyroiddiseasedata.zip'
-        self.client_id = 'JWwyyCcBXwOwizHiyYzZqDpa'
-        self.client_secret = 'TQx8KjB5XwFkT.dd0,GAFwskPKjyw5ikZh5WQMfswPiUjiShLTXBm,KUL91hbACZOb7LteMNtjU5GOMG4y0kY4YWUoc+6OT5GBk5I0HZTxjZr9hZWtFt-966RDu6IIz,'
+        self.secure_connect_bundle = 'secure-connect-test.zip'
+        self.client_id = 'iNFxEAjKMehBFeWDMynjNZaG'
+        self.client_secret = 'Jo6H30OBMLcAJss5EnoTtie-eev3_tay.-4o3MMOf-wPIQFkB2qKjw-AX6Jk4TIuBwtgIuT+C2jNK+JC-3r6.oA.FBuS3SqfHDSNAvuhNt2-k+SKmc5iRFG.fEg5Pdre'
 
     def dataBaseConnection(self):
 
