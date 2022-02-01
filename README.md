@@ -9,7 +9,7 @@ Heroku: https://thyroid-disease.herokuapp.com/
 
 # Demo
 
-https://user-images.githubusercontent.com/72372136/134773017-d9d26150-0e68-4c2d-8627-b3a64beeac9b.mp4
+
 
 
 
@@ -68,17 +68,29 @@ The final model is deployed on Heroku using Flask framework.
 
 ### Batch File Prediction User Interface
 
+#### Homepage: A very simple UI with single page
+![Screenshot (127)](https://user-images.githubusercontent.com/72783418/151911749-effe207a-228a-414d-97bc-74a3c83c5aff.png)
+
+
 
 #### User need to upload CSV file and click predict button for prediction to start.
+![Screenshot (129)](https://user-images.githubusercontent.com/72783418/151911814-1896b89e-d3a7-4669-9ac5-48d98b74962e.png)
+
 
 
 #### User can download their result by clicking download button below.
+![Screenshot (130)](https://user-images.githubusercontent.com/72783418/151911864-0295fae4-8c32-49af-afee-915f8e341998.png)
+
 
 
 #### Downloaded CSV file will contain index numer with type of thyroid disease patient is suffering from.
+![Screenshot (133)](https://user-images.githubusercontent.com/72783418/151912091-526182af-fb6c-41b6-bcc8-60de678e2914.png)
+
 
 
 #### User can also download sample csv file for reference.
+![Screenshot (131)](https://user-images.githubusercontent.com/72783418/151911904-65a610ad-9ca3-4b12-a338-d30f4350acc9.png)
+
 
 
 
