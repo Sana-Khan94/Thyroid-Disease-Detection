@@ -86,15 +86,15 @@ The final model is deployed on Heroku using Flask framework.
 
 ## Project Documents
 
-- HLD: 
+- HLD:  https://github.com/Sana-Khan94/Thyroid-Disease-Detection/blob/main/Docs/TDD_HLD_V1.0.pdf
 
-- LLD: 
+- LLD: https://github.com/Sana-Khan94/Thyroid-Disease-Detection/blob/main/Docs/TDD_LLD_V1.0.pdf
 
-- Architecture: 
+- Architecture: https://github.com/Sana-Khan94/Thyroid-Disease-Detection/blob/main/Docs/TDD_Architecture_V1.0.pdf
 
-- Wireframe: 
+- Wireframe: https://github.com/Sana-Khan94/Thyroid-Disease-Detection/blob/main/Docs/TDD_Wireframe_V1.0.pdf
 
-- Detailed Project Report: 
+- Detailed Project Report: https://github.com/Sana-Khan94/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
 
 
 # Author
@@ -104,4 +104,4 @@ Sana Khan: https://www.linkedin.com/in/sana-khan-03809b127/
 
 # Help Me Improve
 
-Hello Reader if you find any bug please consider raising issue I will address them asap.
+Hello Reader if you find any bug please consider raising issue.
