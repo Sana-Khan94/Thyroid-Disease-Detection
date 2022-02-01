@@ -9,10 +9,7 @@ Heroku: https://thyroid-disease.herokuapp.com/
 
 # Demo
 
-
-
-
-
+https://youtu.be/PJeebeO13v0
 
 # Technical Aspects
 
